@@ -92,17 +92,7 @@ A sensor-based system for monitoring and controlling lighting intensity.
 
 ---
 
-##  GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharathkshila-dotcom&show_icons=true&hide_border=true" height="170" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkshila-dotcom&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
-</p>
-
----
 
 ##  GitHub Streak
 
