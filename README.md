@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharath</h1>
+<h1 align="center">Hi , I'm Sharath</h1>
 
 <p align="center">
   <b>Embedded Systems | IoT | Electronics | Programming</b>
@@ -10,19 +10,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🔧 Interested in **Embedded Systems, IoT and Electronics**
-- 🤖 Working with **ESP32 and Arduino**
-- 💻 Programming with **C and C++**
-- 📊 Exploring **MATLAB and hardware-based projects**
-- 🔌 Interested in sensors, automation and robotics
-- 🚀 Building practical projects by combining hardware and software
-- 📫 Email: **sharathkshila@gmail.com**
+-  Interested in **Embedded Systems, IoT and Electronics**
+-  Working with **ESP32 and Arduino**
+-  Programming with **C and C++**
+-  Exploring **MATLAB and hardware-based projects**
+-  Interested in sensors, automation and robotics
+-  Building practical projects by combining hardware and software
+-  Email: **sharathkshila@gmail.com**
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="Arduino"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔌 Embedded Systems & IoT
+##  Embedded Systems & IoT
 
 <p align="left">
 
@@ -54,9 +54,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔐 RFID-Based Smart Attendance System
+###  RFID-Based Smart Attendance System
 
 An ESP32-based attendance system using RFID technology.
 
@@ -65,7 +65,6 @@ An ESP32-based attendance system using RFID technology.
 - RFID card detection
 - Student identification
 - OLED display
-- Servo motor control
 - Buzzer notifications
 - Attendance management
 - Google Sheets integration
@@ -75,7 +74,7 @@ An ESP32-based attendance system using RFID technology.
 
 ---
 
-### 🤖 Autonomous Line Follower Robot
+###  Autonomous Line Follower Robot
 
 A sensor-based robotic system designed to automatically follow a predefined path.
 
@@ -84,7 +83,7 @@ A sensor-based robotic system designed to automatically follow a predefined path
 
 ---
 
-### 💡 Smart Light & Intensity Control
+###  Smart Light & Intensity Control
 
 A sensor-based system for monitoring and controlling lighting intensity.
 
@@ -93,7 +92,7 @@ A sensor-based system for monitoring and controlling lighting intensity.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharathkshila-dotcom&show_icons=true&hide_border=true" height="170" alt="GitHub Statistics"/>
@@ -105,7 +104,7 @@ A sensor-based system for monitoring and controlling lighting intensity.
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sharathkshila-dotcom&hide_border=true" alt="GitHub Streak"/>
@@ -113,7 +112,7 @@ A sensor-based system for monitoring and controlling lighting intensity.
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharathkshila-dotcom&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
@@ -121,7 +120,7 @@ A sensor-based system for monitoring and controlling lighting intensity.
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sharath" target="_blank">
@@ -136,7 +135,7 @@ A sensor-based system for monitoring and controlling lighting intensity.
 ---
 
 <p align="center">
-  <b>💡 Build • Learn • Innovate</b>
+  <b> Build • Learn • Innovate</b>
 </p>
 
 <p align="center">
