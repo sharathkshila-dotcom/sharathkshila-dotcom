@@ -100,13 +100,7 @@ A sensor-based system for monitoring and controlling lighting intensity.
   <img src="https://streak-stats.demolab.com?user=sharathkshila-dotcom&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
 
-##  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharathkshila-dotcom&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
 ---
 
@@ -129,5 +123,5 @@ A sensor-based system for monitoring and controlling lighting intensity.
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile!
 </p>
